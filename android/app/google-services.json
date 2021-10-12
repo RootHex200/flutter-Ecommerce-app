@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995945889254",
+    "project_id": "e-comarceflutter",
+    "storage_bucket": "e-comarceflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995945889254:android:a048c5b035314b48b2ea27",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ecomarce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995945889254-hs0oq5sfm0m30nobl0nig1pcu6mv6n49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_ecomarce",
+            "certificate_hash": "262c3560deadbef09ec3227eca312f90c85e5e90"
+          }
+        },
+        {
+          "client_id": "995945889254-u4900upl5vqur7ei3a478cl4d6ngsnf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRo3sE8RDLjNp8uAlbH2870-vyMJaQcsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995945889254-u4900upl5vqur7ei3a478cl4d6ngsnf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
